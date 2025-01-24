@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\ctrl\hanaorimaya\hair"
+	"$lightwarptexture" "models\player\ctrl\hanaorimaya\basewarp"
+    "$nocull" "1"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.1 .1 .1]"
+	"$phongexponenttexture" 	"models\player\ctrl\hanaorimaya\phong_exp"
+}

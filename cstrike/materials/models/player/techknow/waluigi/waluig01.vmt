@@ -1,0 +1,22 @@
+vertexlitgeneric
+
+{
+	"$basetexture" "models/player/techknow/waluigi/waluig01"
+	// "$envmap" 			"env_cubemap"
+	"$bumpmap"     "models/player/techknow/waluigi/waluig01_n"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+
+	"$halflambert" 1
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+	 "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 20.00
+     	}
+}

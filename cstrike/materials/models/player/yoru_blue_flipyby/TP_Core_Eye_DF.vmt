@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\yoru_blue_flipyby\TP_Core_Eye_DF"
+                  $translucent 1
+}

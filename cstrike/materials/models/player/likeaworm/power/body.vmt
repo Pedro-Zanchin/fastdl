@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+    $basetexture "models\player\likeaworm\power\Body"
+    $lightwarptexture "models\player\likeaworm\power\lightwarp"
+
+    $rimlight 1
+    $rimlightexponent 50
+    $rimlightboost 1
+
+    $ambientocclusion 0.2
+}
