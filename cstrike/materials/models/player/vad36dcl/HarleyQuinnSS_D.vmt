@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models\player\vad36dcl\HarleyQuinnSS_D"
+	
+	$envmap env_cubemap
+	$envmaptint "[ .01 .01 .02 ]"
+	$normalmapalphaenvmapmask 1
+
+	$bumpmap				"models\player\vad36dcl\HarleyQuinnSS_N"
+	 
+
+}

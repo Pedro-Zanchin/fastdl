@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\vad36fortnite\kakashi\T_M_MED_Headband_K_Head_D"
+	 "$envmap" 			"env_cubemap"
+	"$bumpmap" "models\player\vad36fortnite\kakashi\T_M_MED_Headband_K_Head_N"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

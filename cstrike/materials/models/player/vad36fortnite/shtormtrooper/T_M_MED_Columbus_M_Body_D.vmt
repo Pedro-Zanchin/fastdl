@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/player/vad36fortnite/shtormtrooper/T_M_MED_Columbus_M_Body_D"
+	$envmap env_cubemap
+	$envmaptint "[ .05 .05 .05 ]"
+	$normalmapalphaenvmapmask 1
+	"$bumpmap"                "models/player/vad36fortnite/shtormtrooper/T_M_MED_Columbus_M_Body_N"
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/player/vad36fortnite/shtormtrooper/T_M_MED_Columbus_M_Body_S"
+
+ 	$phong 1
+	$phongboost .5 
+	$phongalbedoboost 5
+	$phongtint "[0.7 0.8 1]"
+}

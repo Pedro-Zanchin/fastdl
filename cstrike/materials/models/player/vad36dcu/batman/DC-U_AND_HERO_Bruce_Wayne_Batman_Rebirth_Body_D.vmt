@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	$basetexture			models\player\vad36dcu\batman\DC-U_AND_HERO_Bruce_Wayne_Batman_Rebirth_Body_D
+	
+	$envmap env_cubemap
+	$envmaptint "[ .01 .01 .01 ]"
+	$normalmapalphaenvmapmask 1
+
+	$bumpmap				models\player\vad36dcu\batman\DC-U_AND_HERO_Bruce_Wayne_Batman_Rebirth_Body_N
+	 
+
+ 	$phong 1
+	$phongboost .5 
+	$phongalbedoboost 8
+	$phongtint "[0.7 0.8 1]"
+	
+
+}

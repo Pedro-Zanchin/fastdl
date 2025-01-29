@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/player/vad36fortnite\groot/T_M_MED_HighTower_Grape_Body_D"
+	$envmap env_cubemap
+	$envmaptint "[ .01 .01 .01 ]"
+	$normalmapalphaenvmapmask 1
+	"$bumpmap"                "models/player/vad36fortnite\groot/T_M_MED_HighTower_Grape_Body_N"
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\player\vad36fortnite\groot/T_M_MED_HighTower_Grape_Body_S"
+
+ 	$phong 1
+	$phongboost .5 
+	$phongalbedoboost 5
+	$phongtint "[0.7 0.8 1]"
+}

@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	$basetexture			models\player/vad36thanos\sv_thanos_gear_d
+	
+	$envmap env_cubemap
+	$envmaptint "[ .01 .01 .02 ]"
+	$normalmapalphaenvmapmask 1
+
+	$bumpmap				models\player/vad36thanos\sv_thanos_gear_n
+	
+        "$detail" "models\player\vad36thanos\sv_thanos_gear_u"
+       	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "6"
+        
+        $phongexponenttexture	models\player/vad36thanos/sv_thanos_gear_s
+	
+ 	$phong 1
+	$phongboost .5 
+	$phongalbedoboost 5
+	$phongtint "[0.7 0.8 1]"
+	
+
+}
