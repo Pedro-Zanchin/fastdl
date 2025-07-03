@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Pen\pen"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\Pen\pen_ref"
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\butterfly\butterfly"
+	"$envmap" "env_cubemap"
+      	"$bumpmap" "models\weapons\v_models\butterfly\butterfly_normal"
+	"$normalmapalphaenvmapmask" "1"
+}

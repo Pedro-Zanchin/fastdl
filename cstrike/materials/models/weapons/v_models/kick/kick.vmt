@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\kick\kick"
+                "$bumpmap" "models\weapons\v_models/kick_normal"
+                "$phong" "1"
+                "$phongexponent" "40"
+                "$phongboost" "3"
+                "$phongfresnelranges" "[.05 .5 5]"
+                "$halflambert" "1"
+
+               
+}

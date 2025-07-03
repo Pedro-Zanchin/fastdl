@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$additive" 1
+	"$basetexture" "models/weapons/v_models/kuronamikunai/VFX"
+	"$translucent" 1
+}
