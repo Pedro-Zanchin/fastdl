@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"weapons\v_models\minecraft_sword\v_hands"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "weapons\v_models\minecraft_sword\v_hands_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+}
